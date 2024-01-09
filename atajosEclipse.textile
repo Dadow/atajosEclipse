@@ -1,5 +1,3 @@
-Atajos Eclipse
-
 h1. Atajos de teclado para Eclipse (y derivados como ZendStudio)
 
 Para editar un comando: Window -> Preferences -> General -> Keys
